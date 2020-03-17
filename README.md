@@ -1,7 +1,7 @@
 # ForeverBook
 Permanent social media application build on the Etherium BlockChain. Can never be altered, can never be changed.
 
-![Final App](https://github.com/derekwebdevcom/ForeverBook/blob/master/public/foreverbook.PNG)
+![Final App](https://derekwebdev.com/gifs/foreverbook.gif)
 
 This project uses the following technologies:
 
