@@ -3,6 +3,10 @@ Permanent social media application build on the Ethereum BlockChain. Can never b
 
 ![Final App](https://derekwebdev.com/gifs/foreverbook.gif)
 
+# Live Demo with Metamask Extension
+
+https://foreverbook.derekwebdev.com/#/
+
 This project uses the following technologies:
 
 - [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
