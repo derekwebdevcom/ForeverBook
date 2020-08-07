@@ -23,3 +23,12 @@ This project uses the following technologies:
 // NPM install and UI will be hosted on port
  http://localhost:3000
 You must install Metamask browser extension in Chrome in order to view this application.
+
+## Quick Start:
+
+// NPM install and Truffle Migrate to deploy your Smart Contract to your local Blockchain. Client Application ports on
+ http://localhost:3000
+ 
+## Quick Deployment: for deploying to a test network visit the following link for updated information
+
+ https://www.trufflesuite.com/tutorials/using-infura-custom-provider
